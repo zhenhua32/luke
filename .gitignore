@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 .history
 .idea
 back/logs
 
-=======
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -15,10 +12,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-<<<<<<< HEAD
-=======
-env/
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 build/
 develop-eggs/
 dist/
@@ -34,10 +27,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-<<<<<<< HEAD
 MANIFEST
-=======
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -59,10 +49,7 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
-<<<<<<< HEAD
 .pytest_cache/
-=======
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 
 # Translations
 *.mo
@@ -71,10 +58,7 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-<<<<<<< HEAD
 db.sqlite3
-=======
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 
 # Flask stuff:
 instance/
@@ -101,7 +85,6 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
-<<<<<<< HEAD
 # Environments
 .env
 .venv
@@ -110,15 +93,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-=======
-# dotenv
-.env
-
-# virtualenv
-.venv
-venv/
-ENV/
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
 
 # Spyder project settings
 .spyderproject
@@ -131,8 +105,4 @@ ENV/
 /site
 
 # mypy
-<<<<<<< HEAD
 .mypy_cache/
-=======
-.mypy_cache/
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
