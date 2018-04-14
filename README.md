@@ -52,7 +52,3 @@ config = {
 参考 example 目录
 
 
-=======
-# luke
-simple web crawler
->>>>>>> fa7694eecd3c68d18c7c9b27708268eaae8eea43
